@@ -20,7 +20,7 @@ public static void main(String[] args) {
 
     int valor1 = 12;
     int valor2 = 99;
-    System.out.println(valor1, valor2);
+    System.out.println("teste", valor1, valor2);
 
 
     
